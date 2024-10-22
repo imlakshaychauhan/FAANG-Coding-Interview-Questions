@@ -37,7 +37,7 @@ Also Check Here:
 |7  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) |
 |8  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) |
 |9  | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) |
-|10  | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) |
+|10  | [Search in Rotated Sorted Array - ✔️](https://leetcode.com/problems/search-in-rotated-sorted-array) |
 |11  | [Combination Sum](https://leetcode.com/problems/combination-sum) |
 |12  | [Rotate Image](https://leetcode.com/problems/rotate-image) |
 |13  | [Group Anagrams](https://leetcode.com/problems/group-anagrams) |
@@ -66,7 +66,7 @@ Also Check Here:
 |36  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) |
 |37  | [Reorder List](https://leetcode.com/problems/reorder-list) |
 |38  | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray) |
-|39  | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) |
+|39  | [Find Minimum in Rotated Sorted Array - ✔️](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) |
 |40  | [Reverse Bits](https://leetcode.com/problems/reverse-bits) |
 |41  | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) |
 |42  | [House Robber](https://leetcode.com/problems/house-robber) |
