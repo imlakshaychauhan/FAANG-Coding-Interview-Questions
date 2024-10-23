@@ -43,7 +43,7 @@ Also Check Here:
 |13  | [Group Anagrams](https://leetcode.com/problems/group-anagrams) |
 |14  | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) |
 |15  | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) |
-|16  | [Jump Game](https://leetcode.com/problems/jump-game) |
+|16  | [Jump Game - ✔️](https://leetcode.com/problems/jump-game) |
 |17  | [Merge Intervals](https://leetcode.com/problems/merge-intervals) |
 |18  | [Insert Interval](https://leetcode.com/problems/insert-interval) |
 |19  | [Unique Paths](https://leetcode.com/problems/unique-paths) |
