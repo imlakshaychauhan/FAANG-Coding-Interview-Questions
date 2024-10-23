@@ -38,8 +38,8 @@ Also Check Here:
 |8  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) |
 |9  | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) |
 |10  | [Search in Rotated Sorted Array - ✔️](https://leetcode.com/problems/search-in-rotated-sorted-array) |
-|11  | [Combination Sum](https://leetcode.com/problems/combination-sum) |
-|12  | [Rotate Image](https://leetcode.com/problems/rotate-image) |
+|11  | [Combination Sum - ✔️](https://leetcode.com/problems/combination-sum) |
+|12  | [Rotate Image - ✔️](https://leetcode.com/problems/rotate-image) |
 |13  | [Group Anagrams](https://leetcode.com/problems/group-anagrams) |
 |14  | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) |
 |15  | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) |
